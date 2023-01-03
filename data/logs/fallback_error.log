@@ -1,0 +1,2 @@
+2023/01/02 22:36:05 [error] 283#283: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.22.0.1, server: nginxproxymanager, request: "GET /api/ HTTP/1.1", upstream: "http://127.0.0.1:3000/", host: "localhost:81", referrer: "http://localhost:81/nginx/proxy"
+2023/01/03 09:37:06 [warn] 313#313: 1024 worker_connections are not enough, reusing connections
